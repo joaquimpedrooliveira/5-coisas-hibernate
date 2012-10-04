@@ -1,7 +1,5 @@
 package br.ufc.quixada.escolaferias.banco.exemplos;
 
-import java.util.Calendar;
-
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
